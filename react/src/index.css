@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+
+@theme {
+    --color-mint-500: oklch(0.72 0.11 178);
+    --color-primary: #00897B; /* teal-600 */
+    --color-secondary: #005F56; /* amber-500 */
+    --color-main-bg: #F5F5F5; /* gray-100 */
+    --color-section: #E0E0E0; /* gray-300 */
+    --color-aa: #118AB2;
+    --color-ab: #EF476F;
+    --color-chair: #FFDFBF;
+    --font-roboto: "Roboto", sans-serif;
+    --font-noto: "Noto Sans", sans-serif;
+}

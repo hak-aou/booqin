@@ -1,0 +1,13 @@
+image: maven:3-eclipse-temurin-21
+
+stages:
+  - test
+
+test:
+  stage: test
+  script:
+#    - apt-get update && apt-get install -y maven
+    - mvn clean test -Ptest
+  only:
+    - merge_requests
+
