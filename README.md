@@ -1,5 +1,8 @@
 # Projet BooqIn
 
+#### *Date : 2025*
+#### *Niveau : M2*
+
 ## Présentation
 
 Le site BooqIn est un réseau social dédié aux livres.
