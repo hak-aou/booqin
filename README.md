@@ -27,7 +27,7 @@ Le site offre toutes les fonctionnalités d'un réseau social. Les utilisateurs 
 </p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/16216ca3-6fa9-4711-93c4-b6990f3f6967" width="350" />
+  <img src="https://github.com/user-attachments/assets/16216ca3-6fa9-4711-93c4-b6990f3f6967" width="350" />
   <img src="https://github.com/user-attachments/assets/d99c6ed4-8cc9-44db-a0ab-a4a6cfc1c6b6" width="350" />
   <img src="https://github.com/user-attachments/assets/b396af3b-d0dd-4244-bd10-1b6ab99f1d90" width="350" />
 </p>
