@@ -21,7 +21,16 @@ Le site offre toutes les fonctionnalités d'un réseau social. Les utilisateurs 
 - Une collection des livres ajoutés au cours des 30 derniers jours
 
 ## Captures d'écran
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9467d010-5ddf-4de7-8715-906521dc6703" width="350" />
+  <img src="https://github.com/user-attachments/assets/686ae3a9-72bc-42cd-98c8-9961fe727046" width="350" />
+</p>
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/16216ca3-6fa9-4711-93c4-b6990f3f6967" width="350" />
+  <img src="https://github.com/user-attachments/assets/d99c6ed4-8cc9-44db-a0ab-a4a6cfc1c6b6" width="350" />
+  <img src="https://github.com/user-attachments/assets/b396af3b-d0dd-4244-bd10-1b6ab99f1d90" width="350" />
+</p>
 
 ## Membres
 
